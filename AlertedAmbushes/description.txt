@@ -1,0 +1,1 @@
+Ambushes of enemies can now occur due to noise-producing activities. Configurable.
